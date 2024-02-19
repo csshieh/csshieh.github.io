@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN" "http://www.wapforum.org/DTD/wml_1.1.xml">
+<wml>
+<card id="card1" title="Hello, WAP!">
+	<p>Hello, WAP!</p>
+	<p><a href="#card2">About Me</a></p>
+</card>
+<card id="card2" title="About Me">
+	<p>Chin-Shiuh Shieh</p>
+	<p><img src="csshieh.wbmp" alt="Chin-Shiuh Shieh" /></p>
+	<p>Mobile: +886-937316833</p>
+	<p>E-mail: csshieh@cc.kuas.edu.tw</p>
+	<p>URL: http://bit.kuas.edu.tw/~csshieh</p>
+</card>
+</wml>
